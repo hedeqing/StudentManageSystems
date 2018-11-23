@@ -1,0 +1,8 @@
+23 十一月 2018 15:55:17,947 INFO  ~ Starting D:\javaEE\StudentManageSystem
+23 十一月 2018 15:55:18,213 INFO  ~ Module docviewer is available (D:\Download\play\play-1.5.1\modules\docviewer)
+23 十一月 2018 15:55:19,001 WARN  ~ You're running Play! in DEV mode
+23 十一月 2018 15:55:19,344 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+23 十一月 2018 15:55:29,539 INFO  ~ HikariPool-1 - Starting...
+23 十一月 2018 15:55:29,612 INFO  ~ HikariPool-1 - Start completed.
+23 十一月 2018 15:55:29,683 INFO  ~ Connected to jdbc:h2:mem:play for default
+23 十一月 2018 15:55:31,002 INFO  ~ Application 'StudentManageSystem' is now started !
