@@ -4,6 +4,12 @@
 
 # Home page
 GET     /                                       Application.index
+*     /admin                                        module:crud
+*          /                                        module:secure
+*       /st                                       Students.list
+
+# Import Secure routes
+*       /                                       module:secure
 
 # Ignore favicon requests
 GET     /favicon.ico                            404

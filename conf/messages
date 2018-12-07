@@ -1,3 +1,25 @@
 # You can specialize this file for each language.
 # For example, for French create a messages.fr file
 #
+
+nameTeacher = 姓名
+teacherId = 工号
+nameStudent=  姓名
+ID  = 学号
+course = 课程
+courseName =  课程
+teacher  = 老师
+student = 学生
+adminID = 管理员ID
+name = 管理员姓名
+Teachers = 老师
+Courses  =课程
+Students = 学生
+studentId  =学号
+Manages = 管理员
+courser = 课程
+Coursers = 课程
+Recording = 选课
+Recordings = 选课
+courserNmae = 课程
+course.courserName = 课程
