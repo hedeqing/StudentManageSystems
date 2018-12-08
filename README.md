@@ -24,3 +24,6 @@
 ![](https://i.imgur.com/dlmEDyW.png)
 只有管理员能对老师信息，课程发布，管理员增加等进行修改
 ![](https://i.imgur.com/EyObJ4G.png)
+
+
+注意： PPT上可能有错，可参考代码
